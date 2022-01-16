@@ -7,6 +7,8 @@ Jabber is a Java application that makes people social life easier. The applicati
 For the backend part of the application I used Java with MySQL for storing the information about each jab.
 
 ## :trophy: What I learned and Accomplishments that I am proud of
-:point_right: How to create a secure log in method for the user.['\n']
+:point_right: How to create a secure log in method for the user.
+
 :point_right: How to get the timeline of each user.
+
 :point_right: How to post a jab and store the jab information into the database.
