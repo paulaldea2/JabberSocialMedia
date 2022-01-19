@@ -1,7 +1,7 @@
 # :world_map: Jabber-Social-Media
 
 ## What is does?
-Jabber is a Java application that makes people social life easier. The application presents the user's timeline -the timeline contains all the jabs that people posted on the timeline- offers users information about how many people liked the jab, the time when the author of the jab posted it and the option to like or unlike a jab.
+:world_map: Jabber is a Java application that makes people social life easier. The application presents the user's timeline -the timeline contains all the jabs that people posted on the timeline- offers users information about how many people liked the jab, the time when the author of the jab posted it and the option to like or unlike a jab.
 
 ## :hammer_and_wrench: How I built it?
 For the backend part of the application I used Java with MySQL for storing the information about each jab.
